@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 11281,
+    "articles": [
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "prosen@insider.com (Phil Rosen)",
+    "title": "'We have no intention of selling': El Salvador's millennial president touts the country's bitcoin investment as the token soars",
+    "description": "Nayib Bukele said if El Salvador sold all its bitcoin at current prices, it would recover 100% of its investment and see a profit more than $3,600,000.",
+    "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-el-salvador-bukele-millennial-president-profits-crypto-btc-2023-12",
+    "urlToImage": "https://i.insider.com/656de75b58e7c0c29a29222b?width=1200&format=jpeg",
+    "publishedAt": "2023-12-04T15:52:51Z",
+    "content": "Bitcoin breached $42,000 on Monday for the first time in 20 months, and El Salvador's millennial president Nayib Bukele took to X to tout his country's investment in the crypto amid the big gains. \r\n… [+1237 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Matt Burgess",
+    "title": "Scammers Are Tricking Anti-Vaxxers Into Buying Bogus Medical Documents",
+    "description": "On Telegram, scammers are impersonating doctors to sell fake Covid-19 vaccination certificates and other products, showing how criminals are taking advantage of conspiracy theories.",
+    "url": "https://www.wired.com/story/telegram-covid-19-vaccination-fakes/",
+    "urlToImage": "https://media.wired.com/photos/657cdc0f0bfff3d8273cf8dd/191:100/w_1280,c_limit/Anti-Vaxxers-sold-fake-medical-docs-Security-GettyImages-924224840.jpg",
+    "publishedAt": "2023-12-18T12:00:00Z",
+    "content": "Draper and Proops say the efforts used repeated messaging, often replying to verified accounts on X that are linked to anti-vaccination sentiments, and consistently mentioned conspiracy theories such… [+2346 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "El Salvador Bitcoin bonds clear regulatory hurdle",
+    "description": "El Salvador’s ambitious plan to issue $1 billion in sovereign “Volcano Bonds” backed by Bitcoin has cleared a significant obstacle, […]\nThe post El Salvador Bitcoin bonds clear regulatory hurdle appeared first on ReadWrite.",
+    "url": "https://readwrite.com/el-salvador-bitcoin-bonds-clear-regulatory-hurdle/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/El-Salvador-Bitcoin-bonds.jpg",
+    "publishedAt": "2023-12-12T19:30:08Z",
+    "content": "El Salvador’s ambitious plan to issue $1 billion in sovereign “Volcano Bonds” backed by Bitcoin has cleared a significant obstacle, bringing the pioneering offering closer to fruition, according to a… [+1954 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Maxwell William",
+    "title": "Bitcoin soars above $45,000 in New Year rally, eyes on SEC for ETF approvals",
+    "description": "The cryptocurrency market kicked off the new year with a bang as Bitcoin surged past the $45,000 mark for the […]\nThe post Bitcoin soars above $45,000 in New Year rally, eyes on SEC for ETF approvals appeared first on ReadWrite.",
+    "url": "https://readwrite.com/bitcoin-soars-above-45000-in-new-year-rally-eyes-on-sec-for-etf-approvals/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/Bitcoin-gathers-momentum.jpg",
+    "publishedAt": "2024-01-02T10:24:46Z",
+    "content": "The cryptocurrency market kicked off the new year with a bang as Bitcoin surged past the $45,000 mark for the first time since early April 2022, recording a significant 7% increase on the first day o… [+1706 chars]"
+    }
+]
+}
